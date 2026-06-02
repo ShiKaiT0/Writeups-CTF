@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420" font-family="monospace">
+<rect width="600" height="420" fill="#0a0a0f"/><rect x="20" y="20" width="560" height="380" fill="none" stroke="#00ffe0" stroke-width="1.5" opacity="0.6"/><rect x="24" y="24" width="552" height="372" fill="none" stroke="#00ffe0" stroke-width="0.4" opacity="0.3"/>
+<text x="300" y="60" text-anchor="middle" font-size="11" fill="#00ffe0" letter-spacing="6" opacity="0.9">MILSEC INDUSTRIES</text>
+<text x="300" y="76" text-anchor="middle" font-size="7" fill="#00ffe0" letter-spacing="3" opacity="0.5">CLASSIFIED // NEURAL ARCHIVE DIVISION</text>
+<line x1="40" y1="85" x2="560" y2="85" stroke="#00ffe0" stroke-width="0.5" opacity="0.4"/>
+<text x="50" y="115" font-size="8" fill="#7fffef" opacity="0.7" letter-spacing="1">REF     : NRH-2087-0441-ECHO</text>
+<text x="50" y="130" font-size="8" fill="#7fffef" opacity="0.7" letter-spacing="1">DATE    : 14.03.2087 — 23:41 NST</text>
+<text x="50" y="145" font-size="8" fill="#7fffef" opacity="0.7" letter-spacing="1">ORIGIN  : BOARD ROOM, TOWER 7 — NEONREACH</text>
+<text x="50" y="160" font-size="8" fill="#7fffef" opacity="0.7" letter-spacing="1">SUBJECT : Q1 NEURAL HARVEST QUOTAS</text>
+<line x1="40" y1="172" x2="560" y2="172" stroke="#00ffe0" stroke-width="0.3" opacity="0.25"/>
+<text x="50" y="195" font-size="7.5" fill="#4fc9b8" opacity="0.65">Neural extraction targets for Q1 2087 have been met at 103% capacity.</text>
+<text x="50" y="210" font-size="7.5" fill="#4fc9b8" opacity="0.65">Sector 9 resistors have been successfully re-integrated into the grid.</text>
+<text x="50" y="225" font-size="7.5" fill="#4fc9b8" opacity="0.65">Project PALE BISHOP proceeds on schedule. Asset conditioning at phase 4.</text>
+<text x="50" y="240" font-size="7.5" fill="#4fc9b8" opacity="0.65">Board members are reminded to use the standard communication protocol.</text>
+<text x="50" y="255" font-size="7.5" fill="#4fc9b8" opacity="0.65">All external exchanges must route through the approved relay channels.</text>
+<line x1="40" y1="268" x2="560" y2="268" stroke="#00ffe0" stroke-width="0.3" opacity="0.25"/>
+<rect x="50" y="278" width="230" height="10" fill="#00ffe0" opacity="0.15"/><rect x="50" y="293" width="310" height="10" fill="#00ffe0" opacity="0.15"/><rect x="50" y="308" width="180" height="10" fill="#00ffe0" opacity="0.15"/>
+<line x1="40" y1="355" x2="560" y2="355" stroke="#00ffe0" stroke-width="0.5" opacity="0.4"/>
+<text x="50" y="372" font-size="7" fill="#00ffe0" opacity="0.4" letter-spacing="1">CLASSIFICATION: OMEGA-5 // UNAUTHORIZED ACCESS PUNISHABLE UNDER NEONREACH CODE 7.3.1</text>
+<text x="300" y="387" text-anchor="middle" font-size="7" fill="#00ffe0" opacity="0.3" letter-spacing="2">© 2087 MILSEC INDUSTRIES — ALL NEURAL RIGHTS RESERVED</text>
+<g id="archive" aria-hidden="true">
+    <circle cx="1" cy="-500" r="105" fill="none" stroke="none"/>
+    <circle cx="2" cy="-500" r="110" fill="none" stroke="none"/>
+    <circle cx="3" cy="-500" r="116" fill="none" stroke="none"/>
+    <circle cx="4" cy="-500" r="101" fill="none" stroke="none"/>
+    <circle cx="5" cy="-500" r="114" fill="none" stroke="none"/>
+    <circle cx="6" cy="-500" r="105" fill="none" stroke="none"/>
+    <circle cx="7" cy="-500" r="117" fill="none" stroke="none"/>
+    <circle cx="8" cy="-500" r="116" fill="none" stroke="none"/>
+    <circle cx="9" cy="-500" r="123" fill="none" stroke="none"/>
+    <circle cx="10" cy="-500" r="97" fill="none" stroke="none"/>
+    <circle cx="11" cy="-500" r="95" fill="none" stroke="none"/>
+    <circle cx="12" cy="-500" r="118" fill="none" stroke="none"/>
+    <circle cx="13" cy="-500" r="101" fill="none" stroke="none"/>
+    <circle cx="14" cy="-500" r="114" fill="none" stroke="none"/>
+    <circle cx="15" cy="-500" r="121" fill="none" stroke="none"/>
+    <circle cx="16" cy="-500" r="95" fill="none" stroke="none"/>
+    <circle cx="17" cy="-500" r="115" fill="none" stroke="none"/>
+    <circle cx="18" cy="-500" r="101" fill="none" stroke="none"/>
+    <circle cx="19" cy="-500" r="99" fill="none" stroke="none"/>
+    <circle cx="20" cy="-500" r="114" fill="none" stroke="none"/>
+    <circle cx="21" cy="-500" r="101" fill="none" stroke="none"/>
+    <circle cx="22" cy="-500" r="116" fill="none" stroke="none"/>
+    <circle cx="23" cy="-500" r="95" fill="none" stroke="none"/>
+    <circle cx="24" cy="-500" r="105" fill="none" stroke="none"/>
+    <circle cx="25" cy="-500" r="110" fill="none" stroke="none"/>
+    <circle cx="26" cy="-500" r="102" fill="none" stroke="none"/>
+    <circle cx="27" cy="-500" r="111" fill="none" stroke="none"/>
+    <circle cx="28" cy="-500" r="114" fill="none" stroke="none"/>
+    <circle cx="29" cy="-500" r="109" fill="none" stroke="none"/>
+    <circle cx="30" cy="-500" r="97" fill="none" stroke="none"/>
+    <circle cx="31" cy="-500" r="116" fill="none" stroke="none"/>
+    <circle cx="32" cy="-500" r="105" fill="none" stroke="none"/>
+    <circle cx="33" cy="-500" r="111" fill="none" stroke="none"/>
+    <circle cx="34" cy="-500" r="110" fill="none" stroke="none"/>
+    <circle cx="35" cy="-500" r="125" fill="none" stroke="none"/>
+    <circle cx="36" cy="-500" r="10" fill="none" stroke="none"/>
+    </g>
+</svg>
