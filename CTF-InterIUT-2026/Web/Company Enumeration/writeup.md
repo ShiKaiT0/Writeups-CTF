@@ -83,6 +83,8 @@ Donc bon, la faille principale ici est une IDOR, cette faille classique sur une 
 
 On retrouve le flag en clair au bout d'un moment.
 
+Note : un script python qui check pour la string "inter" ou quelque chose du genre aurait été clairement plus approprié. Ne faites pas comme moi, soyez efficaces.
+
 ![](./flag.png)
 
 ## Flag : interiut{id0r_Unpr0tected}
