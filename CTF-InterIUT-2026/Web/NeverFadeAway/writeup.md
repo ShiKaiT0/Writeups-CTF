@@ -32,7 +32,7 @@ eyJ1c2VyX2lkIjoxfQ.ahqjIg.0PfNluZHz9ZFMZHBqUc6egQ1j6g +
 
 Donc a priori mauvaise piste ? *Mais c'est quoi cette merde?*
 
-Bon, ça n'a pas l'air d'un JWT classique. Qui sait, c'est peut-être un format que je ne connais, mais même https://jwt.io est complètement du-per, donc à priori c'est quelque chose de propriétaire et pas une piste à vraiment vérifier.
+Bon, ça n'a pas l'air d'un JWT classique. Qui sait, c'est peut-être un format que je ne connais, mais même [jwt.io](https://jwt.io) est complètement du-per, donc à priori c'est quelque chose de propriétaire et pas une piste à vraiment vérifier.
 
 
 J'ai lancé une tentative de bruteforce en arrière-plan pour tester, sans trop d'espoir. Et bon, ça n'a effectivement pas fonctionné.
